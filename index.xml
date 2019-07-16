@@ -12,10 +12,10 @@
     
     <item>
       <title></title>
-      <link>/post/about/</link>
+      <link>/post/about_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/about/</guid>
+      <guid>/post/about_me/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 
 &lt;p&gt;I am a graduate student at Dept. of Data science and computing, Sun Yat-sen University. I am studying in &lt;a href=&#34;http://www.isee-ai.cn/index.html&#34;&gt;Intelligence Science &amp;amp; System Lab&lt;/a&gt; , advised by Pro. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=Z8Q__xAAAAAJ&#34;&gt;Ruixuan Wang&lt;/a&gt; .&lt;/p&gt;
@@ -25,7 +25,7 @@
 &lt;h2 id=&#34;selected-publication&#34;&gt;Selected Publication&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng. CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data. To appear in the 2nd International Conference on Medical Imaging with Deep Learning(MIDL), 2019, London, [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;/other/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng. CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data. To appear in the 2nd International Conference on Medical Imaging with Deep Learning(MIDL), 2019, London, [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;/other/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/other/MIDL-Slide.pdf&#34;&gt;slide&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;awards-honors&#34;&gt;Awards &amp;amp; Honors&lt;/h2&gt;
