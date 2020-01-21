@@ -18,7 +18,7 @@
       <guid>/post/about/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;I am a 2nd year master student at Dept. of Data science and computing, Sun Yat-sen University. Currently, i am advised by Prof. &lt;a href=&#34;http://isee.sysu.edu.cn/~wangruixuan/&#34;&gt;Ruixuan Wang&lt;/a&gt;,  &lt;a href=&#34;http://www.isee-ai.cn/~zhwshi/index.html&#34;&gt;Wei-shi Zheng&lt;/a&gt; and &lt;a href=&#34;http://staff.computing.dundee.ac.uk/jgzhang/&#34;&gt;Jianguo Zhang&lt;/a&gt; at &lt;a href=&#34;http://www.isee-ai.cn/members.html&#34;&gt;iSEE-SYSU&lt;/a&gt;. I received my B.Sc. egree from  Dept. of Data science and computing, Sun Yat-sen University in 07/2018. I was a research intern of &lt;a href=&#34;http://www.sysu-hcp.net/&#34;&gt;Human Cyber Physical Intelligence Integration Lab&lt;/a&gt;, advised by Prof.  &lt;a href=&#34;http://www.linliang.net/&#34;&gt;Liang Lin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am a 2nd year master student at Dept. of Data science and computing, Sun Yat-sen University. Currently, i am advised by Prof. &lt;a href=&#34;http://isee.sysu.edu.cn/~wangruixuan/&#34;&gt;Ruixuan Wang&lt;/a&gt;,  &lt;a href=&#34;http://www.isee-ai.cn/~zhwshi/index.html&#34;&gt;Wei-shi Zheng&lt;/a&gt; and &lt;a href=&#34;http://staff.computing.dundee.ac.uk/jgzhang/&#34;&gt;Jianguo Zhang&lt;/a&gt; at &lt;a href=&#34;http://www.isee-ai.cn/members.html&#34;&gt;iSEE-SYSU&lt;/a&gt;. I received my B.Sc. egree from  Dept. of Data science and computing, Sun Yat-sen University in 07/2018. I was a research intern of &lt;a href=&#34;http://www.sysu-hcp.net/&#34;&gt;Human Cyber Physical Intelligence Integration Lab&lt;/a&gt;, advised by Prof. &lt;a href=&#34;http://www.linliang.net/&#34;&gt;Liang Lin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My research interest lie within deep learning for computer vision, particalurly in interpretability, imbalanced data and unsupverised learning, clustering.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;News!!&lt;/strong&gt;: I am seeking for Ph.D from 2021 Fall. Feel free to reach out to me if you are interested.&lt;/p&gt;
 &lt;h2 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h2&gt;
@@ -27,18 +27,18 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng. Fusing Metadata and Dermoscopy Images for Skin Disease Diagnosis.
-To be Appearing in ISBI 2020, Iowa, USA. [&lt;a href=&#34;/research/fuse-meta/ISBI_Paper.pdf&#34;&gt;PDF&lt;/a&gt;],  [&lt;a href=&#34;/publications/fuse-meta&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
+To be Appearing in ISBI 2020, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng. CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data.
-In *Proc. of MIDL 2019*, London. [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;/publications/care&#34;&gt;bib&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL-Slide.pdf&#34;&gt;slides&lt;/a&gt;] [&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84413615&#34;&gt;zhihu&lt;/a&gt;]&lt;/p&gt;
+In &lt;em&gt;Proc. of MIDL 2019&lt;/em&gt;, London. [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;https://github.com/LincolnZjx/CARE&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/care&#34;&gt;bib&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL-Slide.pdf&#34;&gt;slides&lt;/a&gt;] [&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84413615&#34;&gt;zhihu&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Weipeng Li*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.  **Rank3 (out of 77 teams)**  MICCAI 2018 grand challenge &amp;ldquo;ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection&amp;rdquo;, Task 3 &amp;ldquo;Lesion Diagnosis&amp;rdquo;, 2018. Note: top 2 teams used additional public dataset to train models. [&lt;a href=&#34;https://github.com/LincolnZjx/ISIC_2018_Classification&#34;&gt;Code&lt;/a&gt;], [&lt;a href=&#34;https://challenge.kitware.com/api/v1/file/5b5bdc9a56357d3303797cbb/download?contentDisposition=inline&#34;&gt;Report&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Weipeng Li*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.  &lt;strong&gt;Rank3 (out of 77 teams)&lt;/strong&gt;  MICCAI 2018 grand challenge &amp;ldquo;ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection&amp;rdquo;, Task 3 &amp;ldquo;Lesion Diagnosis&amp;rdquo;, 2018. Note: top 2 teams used additional public dataset to train models. [&lt;a href=&#34;https://github.com/LincolnZjx/ISIC_2018_Classification&#34;&gt;Code&lt;/a&gt;], [&lt;a href=&#34;https://challenge.kitware.com/api/v1/file/5b5bdc9a56357d3303797cbb/download?contentDisposition=inline&#34;&gt;Report&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;Ruoyu Lan, Wenbo Feng, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;. Meritorious Winner, Mathematical Contest In Modeling, 2017&lt;/li&gt;
-&lt;li&gt;Keyao Bing, Jiahao Rao, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Lishan Huang, Lin Meng. &lt;strong&gt;Rank 10 (Among 1117 teams)&lt;/strong&gt; , Molecular Screening of Drugs Based on Artificial Intelligence, 2018&lt;/li&gt;
+&lt;li&gt;Yaobing Ke, Jiahao Rao, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Lishan Huang, Lin Meng. &lt;strong&gt;Rank 10 (Among 1117 teams)&lt;/strong&gt; , Molecular Screening of Drugs Based on Artificial Intelligence, 2018&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;. Chinese University Students Intelligent Design Competition, Third prize, 2017.&lt;/li&gt;
 &lt;li&gt;The Second Prize Scholarship, 2015&lt;/li&gt;
 &lt;li&gt;The Third Prize Scholarship, 2014&lt;/li&gt;
