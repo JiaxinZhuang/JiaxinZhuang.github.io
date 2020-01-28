@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Jiaxin Zhuang</title>
+    <link>/news/</link>
+    <description>Recent content in News on Jiaxin Zhuang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[01/2020] A paper got accepted to ISBI 2020</title>
+      <link>/news/20-isbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/20-isbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[02/2019] A paper got accepted to MIDL 2019</title>
+      <link>/news/19-midl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/19-midl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
