@@ -48,11 +48,18 @@ In Proceedings of the 2nd International Conference on Medical Imaging with Deep 
 &lt;h2 id=&#34;selected-publication&#34;&gt;Selected Publication&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng. Fusing Metadata and Dermoscopy Images for Skin Disease Diagnosis.
-To be Appearing in ISBI 2020, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Jiaxin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.
+Deep kNN for Medical Image Classiﬁcation.
+To appear in MICCAI 2020, Peru.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng. CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data.
+&lt;p&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng.
+Fusing Metadata and Dermoscopy Images for Skin Disease Diagnosis.
+In &lt;em&gt;Proc. of ISBI 2020&lt;/em&gt;, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.
+CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data.
 In &lt;em&gt;Proc. of MIDL 2019&lt;/em&gt;, London. [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;https://github.com/LincolnZjx/CARE&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/care&#34;&gt;bib&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL-Slide.pdf&#34;&gt;slides&lt;/a&gt;] [&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84413615&#34;&gt;zhihu&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -89,6 +96,15 @@ In &lt;em&gt;Proc. of MIDL 2019&lt;/em&gt;, London. [&lt;a href=&#34;https://ope
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/news/19-midl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[06/2020] A paper got accepted to MICCAI 2020</title>
+      <link>/news/20-miccai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/20-miccai/</guid>
       <description></description>
     </item>
     
