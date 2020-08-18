@@ -25,31 +25,34 @@
 &lt;h2 id=&#34;selected-publication&#34;&gt;Selected Publication&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Jiaxin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.
+&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Jiaxin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.&lt;br&gt;
 Deep kNN for Medical Image Classiﬁcation.
 To appear in MICCAI 2020, Peru.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng.
+&lt;p&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng.&lt;br&gt;
 Fusing Metadata and Dermoscopy Images for Skin Disease Diagnosis.
 In &lt;em&gt;Proc. of ISBI 2020&lt;/em&gt;, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.
+&lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.&lt;br&gt;
 CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data.
 In &lt;em&gt;Proc. of MIDL 2019&lt;/em&gt;, London. [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;https://github.com/LincolnZjx/CARE&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/care&#34;&gt;bib&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL-Slide.pdf&#34;&gt;slides&lt;/a&gt;] [&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84413615&#34;&gt;zhihu&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Zili Xu, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Rong Zhang, Ruixuan Wang, Xuemei Guo and Wei-Shi Zheng.
+&lt;p&gt;Zili Xu, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Rong Zhang, Ruixuan Wang, Xuemei Guo and Wei-Shi Zheng.&lt;br&gt;
 Auxiliary Decoder and Classifier for Imbalanced Skin Disease Diagnosis.
 To appear in AICS 2020, Hangzhou, China.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Weipeng Li*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.  &lt;strong&gt;Rank3 (out of 77 teams)&lt;/strong&gt;  MICCAI 2018 grand challenge &amp;ldquo;ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection&amp;rdquo;, Task 3 &amp;ldquo;Lesion Diagnosis&amp;rdquo;, 2018. Note: top 2 teams used additional public dataset to train models. [&lt;a href=&#34;https://github.com/LincolnZjx/ISIC_2018_Classification&#34;&gt;Code&lt;/a&gt;], [&lt;a href=&#34;/other/ISIC2018-Task3-Report.pdf&#34;&gt;Report&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Ruoyu Lan, Wenbo Feng, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;. Meritorious Winner, Mathematical Contest In Modeling, 2017&lt;/li&gt;
-&lt;li&gt;Yaobing Ke, Jiahao Rao, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Lishan Huang, Lin Meng. &lt;strong&gt;Rank 10 (Among 1117 teams)&lt;/strong&gt; , Molecular Screening of Drugs Based on Artificial Intelligence, 2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Weipeng Li*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.&lt;br&gt;
+&lt;strong&gt;Rank3 (out of 77 teams)&lt;/strong&gt;  MICCAI 2018 grand challenge &amp;ldquo;ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection&amp;rdquo;, Task 3 &amp;ldquo;Lesion Diagnosis&amp;rdquo;, 2018. Note: top 2 teams used additional public dataset to train models. [&lt;a href=&#34;https://github.com/LincolnZjx/ISIC_2018_Classification&#34;&gt;Code&lt;/a&gt;], [&lt;a href=&#34;/other/ISIC2018-Task3-Report.pdf&#34;&gt;Report&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;Ruoyu Lan, Wenbo Feng, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;.&lt;br&gt;
+Meritorious Winner, Mathematical Contest In Modeling, 2017&lt;/li&gt;
+&lt;li&gt;Yaobing Ke, Jiahao Rao, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Lishan Huang, Lin Meng.&lt;br&gt;
+&lt;strong&gt;Rank 10 (Among 1117 teams)&lt;/strong&gt; , Molecular Screening of Drugs Based on Artificial Intelligence, 2018&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;. Chinese University Students Intelligent Design Competition, Third prize, 2017.&lt;/li&gt;
 &lt;li&gt;Excellent Students in iSEE, 2019.&lt;/li&gt;
 &lt;li&gt;The Second Prize Scholarship, 2015&lt;/li&gt;
