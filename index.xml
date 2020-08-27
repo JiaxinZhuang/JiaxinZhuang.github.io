@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiaxin Zhuang</title>
+    <title>Jia-Xin Zhuang</title>
     <link>/</link>
-    <description>Recent content on Jiaxin Zhuang</description>
+    <description>Recent content on Jia-Xin Zhuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 10:21:21 +0800</lastBuildDate>
@@ -44,7 +44,7 @@ In Proceedings of the 2nd International Conference on Medical Imaging with Deep 
 &lt;p&gt;I am a 2nd year master student at Dept. of Data science and computing, Sun Yat-sen University. Currently, I am advised by Prof. &lt;a href=&#34;http://isee.sysu.edu.cn/~wangruixuan/&#34;&gt;Ruixuan Wang&lt;/a&gt;,  &lt;a href=&#34;http://www.isee-ai.cn/~zhwshi/index.html&#34;&gt;Wei-shi Zheng&lt;/a&gt; and &lt;a href=&#34;http://staff.computing.dundee.ac.uk/jgzhang/&#34;&gt;Jianguo Zhang&lt;/a&gt; at &lt;a href=&#34;http://www.isee-ai.cn/members.html&#34;&gt;iSEE-SYSU&lt;/a&gt;. I received my B.Sc. Degree from  Dept. of Data science and computing, Sun Yat-sen University in 07/2018. I was a research intern of &lt;a href=&#34;http://www.sysu-hcp.net/&#34;&gt;Human Cyber Physical Intelligence Integration Lab&lt;/a&gt;, advised by Prof. &lt;a href=&#34;http://www.linliang.net/&#34;&gt;Liang Lin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;News!!&lt;/strong&gt;: I am seeking for Ph.D from 2021 Fall. Feel free to reach out to me if you are interested.&lt;/p&gt;
 &lt;h2 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h2&gt;
-&lt;p&gt;Computer Vision, Interpretability, Data imbalanced.&lt;/p&gt;
+&lt;p&gt;Deep Learning, Computer Vision, Interpretability, Data imbalanced.&lt;/p&gt;
 &lt;h2 id=&#34;selected-publication&#34;&gt;Selected Publication&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -126,6 +126,15 @@ Meritorious Winner, Mathematical Contest In Modeling, 2017&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/news/20-aics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2020/10] To be Research Intern In Tecent Youtu Lab.</title>
+      <link>/news/20-youtuailab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/20-youtuailab/</guid>
       <description></description>
     </item>
     

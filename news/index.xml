@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Jiaxin Zhuang</title>
+    <title>News on Jia-Xin Zhuang</title>
     <link>/news/</link>
-    <description>Recent content in News on Jiaxin Zhuang</description>
+    <description>Recent content in News on Jia-Xin Zhuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -43,6 +43,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/news/20-aics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2020/10] To be Research Intern In Tecent Youtu Lab.</title>
+      <link>/news/20-youtuailab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/20-youtuailab/</guid>
       <description></description>
     </item>
     
