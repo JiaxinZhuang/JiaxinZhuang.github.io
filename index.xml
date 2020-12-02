@@ -44,7 +44,7 @@ In Proceedings of the 2nd International Conference on Medical Imaging with Deep 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Jiaxin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.&lt;br&gt;
 Deep kNN for Medical Image Classiﬁcation.&lt;br&gt;
-To appear in MICCAI 2020, Lima, Peru. [&lt;a href=&#34;/research/deepkNN/deepkNN.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/li&gt;
+In &lt;em&gt;Proc. of MICCAI 2020&lt;/em&gt;, Lima, Peru. [&lt;a href=&#34;/research/deepkNN/deepkNN.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;/publications/deepkNN&#34;&gt;bib&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng.&lt;br&gt;
 Fusing Metadata and Dermoscopy Images for Skin Disease Diagnosis.&lt;br&gt;
 In &lt;em&gt;Proc. of ISBI 2020&lt;/em&gt;, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/li&gt;
@@ -129,6 +129,17 @@ Responsible for part of &lt;strong&gt;Image captioning&lt;/strong&gt; .&lt;/li&g
       
       <guid>/news/20-youtuailab/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Deep kNN for Medical Image Classification</title>
+      <link>/publications/deepknn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/deepknn/</guid>
+      <description>Jiaxin Zhuang*, Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng
+In Proceedings of the 23rd International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI), Peru, 2020
+ Abstract Human-level diagnostic performance from intelligent systems often depends on large set of training data. However, the amount of available data for model training may be limited for part of diseases, which would cause the widely adopted deep learning models not generalizing well. One alternative simple approach to small class prediction is the traditional k-nearest neighbor (kNN).</description>
     </item>
     
   </channel>

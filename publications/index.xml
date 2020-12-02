@@ -29,5 +29,16 @@ In Proceedings of the 2nd International Conference on Medical Imaging with Deep 
  Abstract To date, it is still an open and challenging problem for intelligent diagnosis systems to effectively learn from imbalanced data, especially with large samples of common diseases and much smaller samples of rare ones. Inspired by the process of human learning, this paper proposes a novel and effective way to embed attention into the machine learning process, particularly for learning characteristics of rare diseases.</description>
     </item>
     
+    <item>
+      <title>Deep kNN for Medical Image Classification</title>
+      <link>/publications/deepknn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/deepknn/</guid>
+      <description>Jiaxin Zhuang*, Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng
+In Proceedings of the 23rd International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI), Peru, 2020
+ Abstract Human-level diagnostic performance from intelligent systems often depends on large set of training data. However, the amount of available data for model training may be limited for part of diseases, which would cause the widely adopted deep learning models not generalizing well. One alternative simple approach to small class prediction is the traditional k-nearest neighbor (kNN).</description>
+    </item>
+    
   </channel>
 </rss>
