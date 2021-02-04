@@ -108,6 +108,27 @@ Responsible for part of &lt;strong&gt;Image captioning&lt;/strong&gt; .&lt;/li&g
     </item>
     
     <item>
+      <title></title>
+      <link>/transformers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/transformers/</guid>
+      <description>Transformers TimeLine Transformer 不是类似于RNN的顺序结构，意味着可以并行训练</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/%E6%A8%A1%E5%9E%8B%E8%BD%BB%E9%87%8F%E5%8C%96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/%E6%A8%A1%E5%9E%8B%E8%BD%BB%E9%87%8F%E5%8C%96/</guid>
+      <description>模型轻量化   评价标准 什么是真的有效  算法越简单越好，这指的是必要的部分，合并冗余不重要的部分
+大量的调参
+思考轻量化这一块是否存在一些好的方向
+小模型，为什么会欠拟合</description>
+    </item>
+    
+    <item>
       <title>[2019/02] A paper got accepted to MIDL 2019</title>
       <link>/news/19-midl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
