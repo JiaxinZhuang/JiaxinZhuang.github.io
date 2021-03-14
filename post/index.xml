@@ -15,6 +15,7 @@
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;I am a 3rd year master student at Dept. of Data science and computing, Sun Yat-sen University. Currently, I am advised by Prof. &lt;a href=&#34;http://isee.sysu.edu.cn/~wangruixuan/&#34;&gt;Ruixuan Wang&lt;/a&gt;,  &lt;a href=&#34;http://www.isee-ai.cn/~zhwshi/index.html&#34;&gt;Wei-shi Zheng&lt;/a&gt; and &lt;a href=&#34;http://staff.computing.dundee.ac.uk/jgzhang/&#34;&gt;Jianguo Zhang&lt;/a&gt; at &lt;a href=&#34;http://www.isee-ai.cn/members.html&#34;&gt;iSEE-SYSU&lt;/a&gt;. I received my B.Sc. Degree from  Dept. of Data science and computing, Sun Yat-sen University in 07/2018. I was a research intern of &lt;a href=&#34;http://www.sysu-hcp.net/&#34;&gt;Human Cyber Physical Intelligence Integration Lab&lt;/a&gt;, advised by Prof. &lt;a href=&#34;http://www.linliang.net/&#34;&gt;Liang Lin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New!!&lt;/strong&gt;:  I am looking for Ph.D position ! !&lt;/p&gt;
 &lt;h2 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video Understanding via Unsupervised representation Learning and Self-supervised Learning&lt;/li&gt;
@@ -26,31 +27,31 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Jiaxin Cai, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.&lt;br&gt;
 Deep kNN for Medical Image Classiﬁcation.&lt;br&gt;
-In &lt;em&gt;Proc. of MICCAI 2020&lt;/em&gt;, Lima, Peru. [&lt;a href=&#34;/research/deepkNN/deepkNN.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;/publications/deepkNN&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
+In &lt;em&gt;Proc. of&lt;/em&gt; the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) , 2020, Lima, Peru. [&lt;a href=&#34;/research/deepkNN/deepkNN.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;/publications/deepkNN&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Major contribution&lt;/strong&gt;: Proposing a training strategy to learn a nonlinear feature extractor from original input images specifically for the kNN classifier.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Weipeng Li*,  &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Ruixuan Wang, Jianguo Zhang, Wei-Shi Zheng.&lt;br&gt;
 Fusing Metadata and Dermoscopy Images for Skin Disease Diagnosis.&lt;br&gt;
-In &lt;em&gt;Proc. of ISBI 2020&lt;/em&gt;, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
+In &lt;em&gt;Proc. of&lt;/em&gt; the IEEE International Symposium on Biomedical Imaging (ISBI),  2020, Iowa, USA. [&lt;a href=&#34;/research/metanet/MetaNet.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://github.com/fatetail/MetaNet&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/metanet&#34;&gt;bib&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Major contribution&lt;/strong&gt;: using both metadata and image datasets to learn more discriminative for rare diseases.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*,  Jiabin Cai*, Ruixuan Wang, Jianguo Zhang, Weishi Zheng.&lt;br&gt;
 CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data.&lt;br&gt;
-In &lt;em&gt;Proc. of MIDL 2019&lt;/em&gt;, London. [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;https://github.com/LincolnZjx/CARE&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/care&#34;&gt;bib&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL-Slide.pdf&#34;&gt;slides&lt;/a&gt;] [&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84413615&#34;&gt;zhihu&lt;/a&gt;]&lt;/p&gt;
+In &lt;em&gt;Proc. of&lt;/em&gt; the International Conference on Medical Imaging with Deep Learning (MIDL), 2019, London. [&lt;a href=&#34;https://openreview.net/pdf?id=BJl2cMBHlN&#34;&gt;openreview&lt;/a&gt;] [&lt;a href=&#34;https://github.com/LincolnZjx/CARE&#34;&gt;code&lt;/a&gt;] [&lt;a href=&#34;/publications/care&#34;&gt;bib&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL_Poster.pdf&#34;&gt;poster&lt;/a&gt;] [&lt;a href=&#34;/research/care/MIDL-Slide.pdf&#34;&gt;slides&lt;/a&gt;] [&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84413615&#34;&gt;zhihu&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Major contribution&lt;/strong&gt;: Proposing an attention embedding mechanism into the machine learning process, particularity for learning characteristics of rare diseases.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Zili Xu, &lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;, Rong Zhang, Ruixuan Wang, Xuemei Guo and Wei-Shi Zheng.&lt;br&gt;
 Auxiliary Decoder and Classifier for Imbalanced Skin Disease Diagnosis.&lt;br&gt;
-In &lt;em&gt;Proc. of&lt;/em&gt;  AICS 2020, Hangzhou, China. [&lt;a href=&#34;/research/auxDecoder/AuxDecoder.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+In &lt;em&gt;Proc. of&lt;/em&gt;  the International Conference on Artificial Intelligence and Computer Science  (AICS),  2020, Hangzhou, China. [&lt;a href=&#34;/research/auxDecoder/AuxDecoder.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Major contribution&lt;/strong&gt;: using encoder-decoder to learn discriminative features to alleviate degradation caused by data imbalance.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Jiaxin Zhuang&lt;/strong&gt;*, Weipeng Li*, Siyamalan*, Ruixuan Wang , JianGuo Zhang, Jihan Liu, Jiahui Pan, Ziyu Yin.&lt;br&gt;
 Skin Lesion Analysis Towards Melanoma Detection Using Deep Neural Network Ensemble.&lt;br&gt;
-In Proc. of MICCAI Workshops, Granada, Spain, 2018. (MICCAIW 2020). [&lt;a href=&#34;/other/ISIC2018-Task3-Report.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+In Proc. of the International Conference on Medical Image Computing and Computer Assisted Intervention Workshops (MICCAIW) , Granada, Spain, 2018. [&lt;a href=&#34;/other/ISIC2018-Task3-Report.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h2&gt;
@@ -81,7 +82,7 @@ Responsible for part of &lt;strong&gt;Image captioning&lt;/strong&gt; .&lt;/li&g
 &lt;/ul&gt;
 &lt;h2 id=&#34;interest&#34;&gt;Interest&lt;/h2&gt;
 &lt;p&gt;Photography, Comics.&lt;/p&gt;
-&lt;h6 id=&#34;-updated-on-jan-17-2020-&#34;&gt;&amp;raquo; Updated on Jan-17-2020 &amp;laquo;&lt;/h6&gt;</description>
+&lt;h6 id=&#34;-updated-on-march-13-2021-&#34;&gt;&amp;raquo; Updated on March-13-2021 &amp;laquo;&lt;/h6&gt;</description>
     </item>
     
   </channel>
