@@ -51,5 +51,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>[2021/4] A paper submmitted to ACM-MM 2021.</title>
+      <link>/news/21-disco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/21-disco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2021/5] A paper submmitted to NeurIPS 2021.</title>
+      <link>/news/21-rmnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/21-rmnet/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
