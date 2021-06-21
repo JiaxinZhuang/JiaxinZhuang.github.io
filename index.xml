@@ -66,6 +66,10 @@ CVPR 2021 AliProducts Challenge: Large-scale Product Recognition. [&lt;a href=&#
 &lt;strong&gt;Jia-Xin Zhuang&lt;/strong&gt;*, Weipeng Li*, Siyamalan*, Ruixuan Wang , JianGuo Zhang, Jihan Liu, Jiahui Pan, Ziyu Yin.&lt;br&gt;
 MICCAIW 2018. [&lt;a href=&#34;/other/ISIC2018-Task3-Report.pdf&#34;&gt;Technical Report&lt;/a&gt;], [&lt;a href=&#34;https://github.com/LincolnZjx/ISIC_2018_Classification&#34;&gt;Code&lt;/a&gt;]&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;manuscripts&#34;&gt;Manuscripts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning [[ArXiv]](&lt;a href=&#34;https://arxiv.org/abs/2104.09124&#34;&gt;Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning&lt;/a&gt;), &lt;a href=&#34;https://github.com/JiaxinZhuang/DisCo&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Tencent Youtu AI Lab (Oct 2020 &amp;ndash; June 2021). Research Intern on Self-suspervision and Model Architecture Design. Advisor:  &lt;a href=&#34;https://www.sunxing.org/&#34;&gt;Dr. Sun Xing&lt;/a&gt;&lt;/li&gt;
