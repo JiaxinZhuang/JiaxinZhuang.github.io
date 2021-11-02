@@ -11,7 +11,7 @@
 </head>
 
 <body>
-  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <table style="width:100%;max-width:1000px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr style="padding:0px">
       <td style="padding:0px">
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -102,6 +102,47 @@
           </tr>
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='flare_image'>
+                  <img src='images/RMNet_avatar.png' width="195"></div>
+                <img src='images/RMNet_avatar.png' width="195">
+              </div>
+              <script type="text/javascript">
+                function flare_start() {
+                  document.getElementById('flare_image').style.opacity = "1";
+                }
+
+                function flare_stop() {
+                  document.getElementById('flare_image').style.opacity = "0";
+                }
+                flare_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2111.00687">
+                <papertitle>RMNet: Equivalently Removing Residual Connection from Networks</papertitle>
+              </a>
+              <br>
+              <a href="https://scholar.google.com/citations?user=uk8ckNYAAAAJ&hl=en">Fanxu Meng</a>,
+              <a href="https://scholar.google.com.hk/citations?user=ftlVqVIAAAAJ&hl=en">Hao Cheng</a>,
+              <strong>Jia-Xin Zhuang</strong>
+              <a href="https://scholar.google.com.hk/citations?user=mfWsFM0AAAAJ&hl=en">Ke Li</a>,
+              <a href="https://scholar.google.com.hk/citations?user=IUtix9IAAAAJ&hl=en">Xing Sun</a>
+              <br>
+							<em>Submission to ICLR</em>, 2022
+              <br>
+              <!-- <a href="https://yichengwu.github.io/flare-removal/">project page</a>  /  -->
+              <a href="https://arxiv.org/abs/2104.09124">arXiv</a>, 
+              <a href="https://github.com/fxmeng/RMNet">Code</a>
+              <p></p>
+              <p>
+              </p>
+            </td>
+          </tr> 
+
 
           <tr onmouseout="flare_stop()" onmouseover="flare_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
