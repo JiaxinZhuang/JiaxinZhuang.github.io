@@ -1,0 +1,205 @@
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Lincoln Jia-Xin Zhuang</title>
+
+  <meta name="author" content="Lincoln Jia-Xin Zhuang">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css?v=2">
+  <style>
+    @media screen and (max-device-width: 520px) {
+      body {
+        -webkit-text-size-adjust: none;
+      }
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    h1 {
+      font-size: 34px;
+      margin: 0;
+      padding: 0;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin: 0;
+      padding: 0;
+    }
+
+    h3 {
+      font-size: 18px;
+      margin: 8;
+      padding: 0;
+    }
+
+    body {
+      padding: 0;
+      font-family: Arial;
+      font-size: 16px;
+      background-color: #fff;
+    }
+
+    .title {
+      width: 650px;
+      margin: 20px auto;
+    }
+
+    .container {
+      width: 750px;
+      margin: 20px auto;
+      border-radius: 10px;
+      background-color: #fff;
+      padding: 20px;
+      clear: both;
+    }
+
+    #bio {
+      padding-top: 30px;
+    }
+
+    #me {
+      border: 0 solid black;
+      margin-bottom: 50px;
+      border-radius: 10px;
+    }
+
+    #sidebar {
+      margin-left: 25px;
+      border: 0 solid black;
+      float: right;
+      margin-bottom: 0;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    a,
+    a:visited {
+      color: #0050e7;
+    }
+
+    .publogo {
+      width: 100 px;
+      margin-right: 20px;
+      float: left;
+      border: 0;
+    }
+
+    .publication {
+      clear: left;
+      padding-bottom: 0px;
+    }
+
+    .publication p {
+      height: 100px;
+      padding-top: 5px;
+    }
+
+    .publication strong a {
+      color: #0000A0;
+    }
+
+    .publication .links {
+      position: relative;
+      top: 15px
+    }
+
+    .publication .links a {
+      margin-right: 20px;
+    }
+
+    .codelogo {
+      margin-right: 10px;
+      float: left;
+      border: 0;
+    }
+
+    .code {
+      clear: left;
+      padding-bottom: 10px;
+      vertical-align: middle;
+    }
+
+    .code .download a {
+      display: block;
+      margin: 0 15px;
+      float: left;
+    }
+
+    .code strong a {
+      color: #000;
+    }
+
+    .external a {
+      margin: 0 10px;
+    }
+
+    .external a.first {
+      margin: 0 10px 0 0;
+    }
+  </style>
+  <link rel="icon" type="image/png" href="images/seal_icon.png">
+</head>
+
+<body>
+  <table style="width:100%;max-width:880px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <div data-include="partials/intro.html"></div>
+          <div data-include="partials/news.html"></div>
+          <div data-include="partials/research.html"></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <script>
+    function runEmbeddedScripts(container) {
+      const scripts = container.querySelectorAll('script');
+      for (const oldScript of scripts) {
+        const newScript = document.createElement('script');
+        if (oldScript.src) {
+          newScript.src = oldScript.src;
+        } else {
+          newScript.textContent = oldScript.textContent;
+        }
+        oldScript.parentNode.replaceChild(newScript, oldScript);
+      }
+    }
+
+    async function loadIncludes(root = document) {
+      const nodes = root.querySelectorAll('[data-include]');
+      for (const node of nodes) {
+        const path = node.getAttribute('data-include');
+        if (!path) continue;
+        try {
+          const response = await fetch(path, { cache: 'no-cache' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          node.innerHTML = await response.text();
+          node.removeAttribute('data-include');
+          runEmbeddedScripts(node);
+          await loadIncludes(node);
+        } catch (error) {
+          node.innerHTML = `<p style="color:#c00;">Failed to load include: ${path}</p>`;
+          console.error(`Include load failed: ${path}`, error);
+        }
+      }
+    }
+
+    loadIncludes();
+  </script>
+</body>
+
+</html>
