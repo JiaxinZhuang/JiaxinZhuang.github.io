@@ -1,6 +1,13 @@
 window.publications = [
   {
     year: 2026,
+    title: "CHILD: Human-in-the-Loop OOD Detection for Safe Clinical Deployment",
+    authors: "Jinlun Ye, ..., <span class='me'>Jiaxin Zhuang</span>, ..., Ruixuan Wang.",
+    venue: "MICCAI 2026",
+    links: []
+  },
+  {
+    year: 2026,
     title: "TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models",
     authors: "Jinlun Ye, ..., <span class='me'>Jiaxin Zhuang&dagger;</span>, ... .",
     venue: "CVPR 2026",
