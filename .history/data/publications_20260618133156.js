@@ -2,14 +2,14 @@ window.publications = [
   {
     year: 2026,
     title: "TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs",
-    authors: "Yanqi Wu, ... <span class='me'>Jiaxin Zhuang</span>, ...",
+    authors: "Yanqi Wu, ... <span class='me'>Jiaxin Zhuang</span>, Weijiang Yu, Ruixuan Wang.",
     venue: "ECCV 2026",
     links: []
   },
   {
     year: 2026,
     title: "CHILD: Human-in-the-Loop OOD Detection for Safe Clinical Deployment",
-    authors: "Jinlun Ye, ..., <span class='me'>Jiaxin Zhuang</span>, ...",
+    authors: "Jinlun Ye, ..., <span class='me'>Jiaxin Zhuang</span>, ..., Ruixuan Wang.",
     venue: "MICCAI 2026",
     links: []
   },
