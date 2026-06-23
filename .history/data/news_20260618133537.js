@@ -3,7 +3,7 @@ window.newsItems = [
   { date: "2026.06", text: "One paper is accepted by MICCAI 2026." },
   { date: "2026.04", text: "One paper is accepted by MIA." },
   { date: "2026.04", text: "One paper accepted by Nature Communications." },
-  { date: "2026.03", text: "One paper accepted by CVPR 2026." },
+  { date: "2026.03", text: "Two papers accepted by CVPR 2026." },
   { date: "2026.02", text: "One paper accepted by ICLR 2026." },
   { date: "2026.01", text: "One paper accepted by Nature Communications." },
   { date: "2026.01", text: "One paper accepted by AAAI 2026." },

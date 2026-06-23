@@ -20,13 +20,13 @@ window.publications = [
     venue: "CVPR 2026",
     links: []
   },
-  // {
-  //   year: 2026,
-  //   title: "DynProto: Dynamic Prototype Evolution for Out-of-Distribution Detection",
-  //   authors: "Yanqi Wu, ..., <span class='me'>Jiaxin Zhuang</span>, ... .",
-  //   venue: "CVPR 2026 Findings",
-  //   links: []
-  // },
+  {
+    year: 2026,
+    title: "DynProto: Dynamic Prototype Evolution for Out-of-Distribution Detection",
+    authors: "Yanqi Wu, ..., <span class='me'>Jiaxin Zhuang</span>, ... .",
+    venue: "CVPR 2026 Findings",
+    links: []
+  },
   {
     year: 2026,
     title: "Glance and Focus Reinforcement for Pan-cancer Screening",
