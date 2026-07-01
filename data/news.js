@@ -1,4 +1,5 @@
 window.newsItems = [
+  { date: "2026.07", text: "MUST is accepted by TMI." },
   { date: "2026.06", text: "One paper is accepted by ECCV 2026." },
   { date: "2026.06", text: "One paper is accepted by MICCAI 2026." },
   { date: "2026.04", text: "One paper is accepted by MIA." },

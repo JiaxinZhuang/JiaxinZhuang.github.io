@@ -1,6 +1,13 @@
 window.publications = [
   {
     year: 2026,
+    title: "MUST: Multi-style Virtual Staining with Incomplete Pairs",
+    authors: "<span class='me'>Jiaxin Zhuang</span>, Yao Du, Xiaoyu Zheng, Linshan Wu, Chao He, Lin Luo, Hao Chen.",
+    venue: "TMI 2026",
+    links: []
+  },
+  {
+    year: 2026,
     title: "TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs",
     authors: "Yanqi Wu, ... <span class='me'>Jiaxin Zhuang</span>, ...",
     venue: "ECCV 2026",
